@@ -2875,8 +2875,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 970403015}
-        m_MethodName: DINOBOTSD1
+      - m_Target: {fileID: 1828051781}
+        m_MethodName: OnDINO
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

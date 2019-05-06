@@ -332,6 +332,20 @@ public class UIManager : MonoBehaviour {
         }
     }
 
+    // to robocamp apprentice dinobots
+    public void OnDINO()
+    {
+        if (!sceneName.Contains("UI") && TapPassword.doubleTap)
+        {
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO");
+        }
+        else if (sceneName.Contains("UI"))
+        { 
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO");
+
+        }
+    }
+
     //----UI SCREENS---------SCHOOL-------------------------------------------------
     //----UI SCREENS---------SCHOOL-------------------------------------------------
     //----UI SCREENS---------SCHOOL-------------------------------------------------
