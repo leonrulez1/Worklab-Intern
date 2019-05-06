@@ -319,4 +319,12 @@ public class UIManagerKindyCamp : MonoBehaviour {
     {
         SceneManager.LoadScene("D5-MINE RAILWAY");
     }
+
+    //----- DINOBOTS ----------------------------------------------------
+
+    public void DINOBOTSD1()
+    {
+        SceneManager.LoadScene("D1 - Sauropods");
+    }
+
 }
