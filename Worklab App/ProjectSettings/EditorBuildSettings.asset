@@ -234,23 +234,23 @@ EditorBuildSettings:
     guid: 6f8fe0b955f47774cae2460e0c56247e
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D1 - Sauropods.unity
+      1 - (First Time)/D1-Sauropods.unity
     guid: 3229ca55be15f1f40afc945ff6c02985
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D2 - Dimetrodon.unity
+      1 - (First Time)/D2-Dimetrodon.unity
     guid: 9b35cceaf58831541ab7f9c8ba100e4b
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D3 - Meiolania.unity
+      1 - (First Time)/D3-Meiolania.unity
     guid: ab36a33cd7f8ec24ca4fe07061075321
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D4 -Plesiosaurus.unity
+      1 - (First Time)/D4-Plesiosaurus.unity
     guid: 50a288d49d3847c4fa779b988a4f3392
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D5 -Stegosaurus.unity
+      1 - (First Time)/D5-Stegosaurus.unity
     guid: 9771551b3d9efc243a44808c4398a5d6
   - enabled: 1
     path: Assets/Scenes/Children Worklab/School/AE/AE1/1. Clown Eye.unity

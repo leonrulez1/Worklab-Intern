@@ -64,7 +64,8 @@ public class LoginMenu : MonoBehaviour {
             if (currentPassword.text == password || currentPassword.text == originalPassword)
             {
                 print("success login");
-                SceneManager.LoadScene(1);
+                //  SceneManager.LoadScene(1);
+                SceneManager.LoadScene("UI-PS");
             }
             else
             {
@@ -83,6 +84,7 @@ public class LoginMenu : MonoBehaviour {
             if ( currentPassword.text == "")
             {
                 SceneManager.LoadScene(1);
+                SceneManager.LoadScene("UI-PS");
             }
 
         }
