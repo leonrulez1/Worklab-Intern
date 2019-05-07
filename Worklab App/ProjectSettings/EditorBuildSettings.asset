@@ -30,6 +30,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/D1-CAR.unity
     guid: 3ff9a3f5cc311674ab3fd77eda01a262
   - enabled: 1
+    path: Assets/Scenes/UI Screens/UI-PS-KC-RA-LVL DINO.unity
+    guid: 4cdaa316861cc304b8d21acaa6a78444
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/UI-PS-KC-RA-LVL DINO2.unity
+    guid: ecf3eeb49b1894248a7d6a69c575fd2f
+  - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/D1-TRAIN.unity
     guid: 0f835fc086eb44948b57cae59d0747b0
   - enabled: 1
@@ -234,23 +240,23 @@ EditorBuildSettings:
     guid: 6f8fe0b955f47774cae2460e0c56247e
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D1-Sauropods.unity
+      1 (First Time)/D1-Sauropods.unity
     guid: 3229ca55be15f1f40afc945ff6c02985
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D2-Dimetrodon.unity
+      1 (First Time)/D2-Dimetrodon.unity
     guid: 9b35cceaf58831541ab7f9c8ba100e4b
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D3-Meiolania.unity
+      1 (First Time)/D3-Meiolania.unity
     guid: ab36a33cd7f8ec24ca4fe07061075321
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D4-Plesiosaurus.unity
+      1 (First Time)/D4-Plesiosaurus.unity
     guid: 50a288d49d3847c4fa779b988a4f3392
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
-      1 - (First Time)/D5-Stegosaurus.unity
+      1 (First Time)/D5-Stegosaurus.unity
     guid: 9771551b3d9efc243a44808c4398a5d6
   - enabled: 1
     path: Assets/Scenes/Children Worklab/School/AE/AE1/1. Clown Eye.unity
@@ -872,6 +878,26 @@ EditorBuildSettings:
     path: Assets/Scenes/UI Screens/UI-PS-WS-SE 4.unity
     guid: f3ca56aad6f4b9640873ef104e900a64
   - enabled: 1
-    path: Assets/Scenes/UI Screens/UI-PS-KC-RA-LVL DINO.unity
+    path: Assets/Scenes/UI Screens/UI-PS-KC-RA-LVL DINO1.unity
     guid: a9a2dd6e3a71ac0499a8f7f577c1df67
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
+      2 (Second Time)/D1 - Triceratops.unity
+    guid: 6f80b458b94f22743a15df5d5c3175d5
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
+      2 (Second Time)/D2 - Meganeura.unity
+    guid: fdf9829cfb3142c42b62b3cedf352c28
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
+      2 (Second Time)/D3 - Parasaurolophus.unity
+    guid: 3134c9d155169f244936bbaf27c684ab
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
+      2 (Second Time)/D4 - Pteranodon.unity
+    guid: 7dea84b30fcd8de4592bd8f725da37c0
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 5 -DinoBots/Level
+      2 (Second Time)/D5 - T-Rex.unity
+    guid: 23da271929dbe6247abf1a5a88a9598f
   m_configObjects: {}

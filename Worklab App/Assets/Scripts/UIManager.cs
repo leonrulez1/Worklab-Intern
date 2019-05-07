@@ -344,6 +344,43 @@ public class UIManager : MonoBehaviour {
             SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO");
 
         }
+
+    }
+
+    // to DINOBOTS lvl 1 (First Time).
+    public void OnDINO1()
+    {
+        if (!sceneName.Contains("UI") && TapPassword.doubleTap)
+        {
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO1");
+        }
+        else if (sceneName.Contains("UI"))
+        {
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO1");
+
+        }
+
+    }
+
+    // to DINOBOTS lvl 2 (Second Time).
+    public void OnDINO2()
+    {
+        if (!sceneName.Contains("UI") && TapPassword.doubleTap)
+        {
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO2");
+        }
+        else if (sceneName.Contains("UI"))
+        {
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO2");
+
+        }
+
+    }
+
+    // to UI-PS-KC-RA-LVL DINO
+    public void OnDinoLvl()
+    {
+        SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO");
     }
 
     //----UI SCREENS---------SCHOOL-------------------------------------------------

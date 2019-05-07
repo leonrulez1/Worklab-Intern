@@ -322,25 +322,55 @@ public class UIManagerKindyCamp : MonoBehaviour {
 
     //----- DINOBOTS ----------------------------------------------------
 
-
+    // DinoBots Lvl 1 Day 1
     public void DINOBOTSD1()
     {
         SceneManager.LoadScene("D1-Sauropods");
     }
+    //DinoBots Lvl 1 Day 2
     public void DINOBOTSD2()
     {
         SceneManager.LoadScene("D2-Dimetrodon");
     }
+    //DinoBots Lvl 1 Day 3
     public void DINOBOTSD3()
     {
         SceneManager.LoadScene("D3-Meiolania");
     }
+    //DinoBots Lvl 1 Day 4
     public void DINOBOTSD4()
     {
         SceneManager.LoadScene("D4-Plesiosaurus");
     }
+    //DinoBots Lvl 1 Day 5
     public void DINOBOTSD5()
     {
         SceneManager.LoadScene("D5-Stegosaurus");
+    }
+
+    // -- DinoBots Lvl 2 Day 1 ------------
+    public void DINOBOTSL2D1()
+    {
+        SceneManager.LoadScene("D1 - Triceratops");
+    }
+    // DinoBots Lvl 2 Day 2
+    public void DINOBOTSL2D2()
+    {
+        SceneManager.LoadScene("D2 - Meganeura");
+    }
+    //DinoBots Lvl 2 Day 3
+    public void DINOBOTSL2D3()
+    {
+        SceneManager.LoadScene("D3 - Parasaurolophus");
+    }
+    //DinoBots Lvl 2 Day 4
+    public void DINOBOTSL2D4()
+    {
+        SceneManager.LoadScene("D4 - Pteranodon");
+    }
+    //DinoBots Lvl 2 Day 5
+    public void DINOBOTSL2D5()
+    {
+        SceneManager.LoadScene("D5 - T-Rex");
     }
 }
