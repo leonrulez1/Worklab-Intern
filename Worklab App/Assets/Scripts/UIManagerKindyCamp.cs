@@ -319,4 +319,28 @@ public class UIManagerKindyCamp : MonoBehaviour {
     {
         SceneManager.LoadScene("D5-MINE RAILWAY");
     }
+
+    //----- DINOBOTS ----------------------------------------------------
+
+
+    public void DINOBOTSD1()
+    {
+        SceneManager.LoadScene("D1-Sauropods");
+    }
+    public void DINOBOTSD2()
+    {
+        SceneManager.LoadScene("D2-Dimetrodon");
+    }
+    public void DINOBOTSD3()
+    {
+        SceneManager.LoadScene("D3-Meiolania");
+    }
+    public void DINOBOTSD4()
+    {
+        SceneManager.LoadScene("D4-Plesiosaurus");
+    }
+    public void DINOBOTSD5()
+    {
+        SceneManager.LoadScene("D5-Stegosaurus");
+    }
 }

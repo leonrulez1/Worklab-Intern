@@ -37,7 +37,7 @@ public class UIManager : MonoBehaviour {
      * Do write down your name, Year and Batch to keep the tradition going
      * 
      *  SP DGDD - Joseph, Year 3 Batch 2, 2018
-     *  
+     *  SP DGDD - Yu Xuan, Yea 3 Batch 1. 2019    -Hi future interns. :D
      * 
      *\
 
@@ -328,6 +328,20 @@ public class UIManager : MonoBehaviour {
         else if (sceneName.Contains("UI"))
         {
             SceneManager.LoadScene("UI-PS-KC-RA-LVL TECH");
+
+        }
+    }
+
+    // to robocamp apprentice dinobots
+    public void OnDINO()
+    {
+        if (!sceneName.Contains("UI") && TapPassword.doubleTap)
+        {
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO");
+        }
+        else if (sceneName.Contains("UI"))
+        { 
+            SceneManager.LoadScene("UI-PS-KC-RA-LVL DINO");
 
         }
     }
