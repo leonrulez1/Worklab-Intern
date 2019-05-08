@@ -5222,7 +5222,7 @@ GameObject:
   m_Component:
   - component: {fileID: 951988737}
   m_Layer: 0
-  m_Name: Step (88)
+  m_Name: Completed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
