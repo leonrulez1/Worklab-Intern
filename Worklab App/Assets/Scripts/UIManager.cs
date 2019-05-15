@@ -183,6 +183,22 @@ public class UIManager : MonoBehaviour {
         }
     }
 
+    // to mycamp junior first time extra project
+    public void OnFTEP()
+    {
+        if (!sceneName.Contains("UI") && TapPassword.doubleTap)
+        {
+            SceneManager.LoadScene("UI-PS-KC-MJ-FT-EP");
+        }
+        else if (sceneName.Contains("UI"))
+        {
+            SceneManager.LoadScene("UI-PS-KC-MJ-FT-EP");
+
+        }
+    }
+
+
+
     // to mycamp junior second time
     public void OnST()
     {

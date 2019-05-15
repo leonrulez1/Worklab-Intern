@@ -45,6 +45,30 @@ public class UIManagerKindyCamp : MonoBehaviour {
     {
         SceneManager.LoadScene("D5-EXCAVATOR");
     }
+    
+    //------FIRST TIME EXTRA PROJECT-------
+    public void MJFTEPxPENGUIN()
+    {
+        SceneManager.LoadScene("FTEP-PENGUIN");
+    }
+
+    public void MJFTEPxPOLICECAR()
+    {
+        SceneManager.LoadScene("FTEP-POLICECAR");
+    }
+
+    public void MJFTEPxTRACTOR()
+    {
+        SceneManager.LoadScene("FTEP-TRACTOR");
+    }
+
+    public void MJFTEPxWINDMILL()
+    {
+        SceneManager.LoadScene("FTEP-WINDMILL");
+    }
+
+
+
 
     //-------------SECOND TIME----------------------------------
 
