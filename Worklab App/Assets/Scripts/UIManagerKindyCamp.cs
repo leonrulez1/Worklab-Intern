@@ -67,6 +67,17 @@ public class UIManagerKindyCamp : MonoBehaviour {
         SceneManager.LoadScene("FTEP-WINDMILL");
     }
 
+    public void MJFTEPxBRACHIO()
+    {
+        SceneManager.LoadScene("FTEP-BRACHIOSAURUS");
+    }
+
+    public void MJFTEPxPTERO()
+    { 
+        SceneManager.LoadScene("FTEP-PTERODACTYL");
+    }
+
+
 
 
 
