@@ -45,14 +45,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/First time/ExtraProject/FTEP-BRACHIOSAURUS.unity
     guid: 6c9ba3390b448db46be25aa947f8d012
   - enabled: 1
-    path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/D1-CAR.unity
-    guid: 3ff9a3f5cc311674ab3fd77eda01a262
-  - enabled: 1
     path: Assets/Scenes/UI Screens/UI-PS-KC-RA-LVL DINO.unity
     guid: 4cdaa316861cc304b8d21acaa6a78444
   - enabled: 1
     path: Assets/Scenes/UI Screens/UI-PS-KC-RA-LVL DINO2.unity
     guid: ecf3eeb49b1894248a7d6a69c575fd2f
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/D1-CAR.unity
+    guid: 3ff9a3f5cc311674ab3fd77eda01a262
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/D1-TRAIN.unity
     guid: 0f835fc086eb44948b57cae59d0747b0
@@ -72,6 +72,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/D5-HELICOPTER.unity
     guid: 12e463935acaf594db5ab0b31156bef1
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/ExtraProject/STEP-SCOOTER.unity
+    guid: 403986011d355de42a51793f6de6a613
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Third Time/CRANE
       OPERATOR.unity
@@ -796,6 +799,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UI Screens/UI-PS-KC-MJ-ST.unity
     guid: 25150b09bf91b8341ad62b6853295be3
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/UI-PS-KC-MJ-ST-EP.unity
+    guid: aa1cccb87e98f634597ee8fb4be33951
   - enabled: 1
     path: Assets/Scenes/UI Screens/UI-PS-KC-MJ-TT.unity
     guid: 1ba0321e709fd82459d875f3fd3299f0

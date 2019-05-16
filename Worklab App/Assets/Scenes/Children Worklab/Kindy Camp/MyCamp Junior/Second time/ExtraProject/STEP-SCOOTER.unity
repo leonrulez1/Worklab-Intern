@@ -353,7 +353,7 @@ Prefab:
     - target: {fileID: 114500216453581712, guid: 50ee0fea88a5fef4da480e7dc429e344,
         type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OnFTEP
+      value: OnSTEP
       objectReference: {fileID: 0}
     - target: {fileID: 224280684813252720, guid: 50ee0fea88a5fef4da480e7dc429e344,
         type: 2}

@@ -118,6 +118,15 @@ public class UIManagerKindyCamp : MonoBehaviour {
         SceneManager.LoadScene("D5-HELICOPTER");
     }
 
+    //------SECOND TIME EXTRA PROJECT-------
+
+    public void MJSTEPxSCOOTER()
+    {
+        SceneManager.LoadScene("STEP-SCOOTER");
+    }
+
+
+
     //-----------THIRD TIME-----------------------------
 
 
