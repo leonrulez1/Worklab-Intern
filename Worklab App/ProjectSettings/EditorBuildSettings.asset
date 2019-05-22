@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/UI Screens/UI-Menu.unity
+    guid: f5d338aefff4da048a9981ee0424c244
+  - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/First time/D1-MOTORCYCLE.unity
     guid: 64a6b943b9cc33f4a989899ee6bc61ea
   - enabled: 1
@@ -38,6 +41,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/First time/ExtraProject/FTEP-WINDMILL.unity
     guid: da75daea58c825643a9e3329a7a54f97
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/First time/ExtraProject/FTEP-TOWTRUCK.unity
+    guid: a3b5f1b643b867842b6898b1e2350686
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/First time/ExtraProject/FTEP-PTERODACTYL.unity
     guid: 26678eac10103424c9e3a29730cd244a
@@ -72,6 +78,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/D5-HELICOPTER.unity
     guid: 12e463935acaf594db5ab0b31156bef1
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/ExtraProject/STEP-FLAGPOLE.unity
+    guid: 850b9cb94f1e5e54892dbb401d219ff5
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/ExtraProject/STEP-SCOOTER.unity
     guid: 403986011d355de42a51793f6de6a613
@@ -778,9 +787,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Children Worklab/Workshop/Senior Engineer/Senior Engineer
       4/PN034 (SE).unity
     guid: 594fd83d9da5f2941a9b3b07df142c61
-  - enabled: 1
-    path: Assets/Scenes/UI Screens/UI-Menu.unity
-    guid: f5d338aefff4da048a9981ee0424c244
   - enabled: 1
     path: Assets/Scenes/UI Screens/UI-PS.unity
     guid: a360146e54709c04b87cd44c1e384235

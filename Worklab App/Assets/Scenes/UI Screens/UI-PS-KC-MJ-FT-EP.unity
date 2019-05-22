@@ -280,8 +280,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2087714896}
-        m_MethodName: OnFTEP
+      - m_Target: {fileID: 2087714898}
+        m_MethodName: MJFTEPxTOWTRUCK
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2383,7 +2383,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.75
-  m_Text: 
+  m_Text: 'TOW
+
+    TRUCK'
 --- !u!222 &2046675077
 CanvasRenderer:
   m_ObjectHideFlags: 0
