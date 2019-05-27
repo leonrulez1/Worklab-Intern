@@ -82,6 +82,11 @@ public class UIManagerKindyCamp : MonoBehaviour {
         SceneManager.LoadScene("FTEP-TOWTRUCK");
     }
 
+    public void MJFTEPxTOWTRUCKMECH()
+    {
+        SceneManager.LoadScene("FTEP-TOWTRUCKMECH");
+    }
+
 
 
 
@@ -133,6 +138,16 @@ public class UIManagerKindyCamp : MonoBehaviour {
     public void MJSTEPxFLAGPOLE()
     {
         SceneManager.LoadScene("STEP-FLAGPOLE");
+    }
+
+    public void MJSTEPxBIRD()
+    {
+        SceneManager.LoadScene("STEP-BIRD");
+    }
+
+    public void MJSTEPxDRAGRACER()
+    {
+        SceneManager.LoadScene("STEP-DRAGRACER");
     }
 
 
