@@ -243,6 +243,20 @@ public class UIManager : MonoBehaviour {
         }
     }
 
+    // to mycamp junior third time extra project
+    public void OnTTEP()
+    {
+        if (!sceneName.Contains("UI") && TapPassword.doubleTap)
+        {
+            SceneManager.LoadScene("UI-PS-KC-MJ-TT-EP");
+        }
+        else if (sceneName.Contains("UI"))
+        {
+            SceneManager.LoadScene("UI-PS-KC-MJ-TT-EP");
+
+        }
+    }
+
     //------------------------------------------------------------------------------------
 
     // to robocamp apprentice

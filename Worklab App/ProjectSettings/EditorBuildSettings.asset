@@ -88,6 +88,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/ExtraProject/STEP-DRAGRACER.unity
     guid: 94f9a38b6d8c5be42933e93c574344df
   - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/ExtraProject/STEP-FIRETRUCK.unity
+    guid: c63470dd0e8887742b917a125920be95
+  - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Second time/ExtraProject/STEP-FLAGPOLE.unity
     guid: 850b9cb94f1e5e54892dbb401d219ff5
   - enabled: 1
@@ -117,6 +120,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Third Time/WIND
       TURBINE CAR.unity
     guid: 8ca25b910f148664289bf9f905916b30
+  - enabled: 1
+    path: Assets/Scenes/Children Worklab/Kindy Camp/MyCamp Junior/Third Time/ExtraProject/TTEP-TRAILERTRUCK.unity
+    guid: 739777e0cb52a554485e18d0030750c2
   - enabled: 1
     path: Assets/Scenes/Children Worklab/Kindy Camp/RoboCamp Apprentice/Level 1 -
       Party/D1-DANCING BIRDS.unity
@@ -820,6 +826,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UI Screens/UI-PS-KC-MJ-TT.unity
     guid: 1ba0321e709fd82459d875f3fd3299f0
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/UI-PS-KC-MJ-TT-EP.unity
+    guid: 0198fa2a8adfcd14f8175e8585138b1a
   - enabled: 1
     path: Assets/Scenes/UI Screens/UI-PS-KC-RA.unity
     guid: cd6f4cc7dee58174b919e4a9ee439f82

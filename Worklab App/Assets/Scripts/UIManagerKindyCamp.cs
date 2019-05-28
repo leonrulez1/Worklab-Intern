@@ -150,6 +150,11 @@ public class UIManagerKindyCamp : MonoBehaviour {
         SceneManager.LoadScene("STEP-DRAGRACER");
     }
 
+    public void MJSTEPxFireTruck()
+    {
+        SceneManager.LoadScene("STEP-FIRETRUCK");
+    }
+
 
 
 
@@ -190,6 +195,13 @@ public class UIManagerKindyCamp : MonoBehaviour {
     public void MJTTxTrex()
     {
         SceneManager.LoadScene("TREX");
+    }
+
+    //----------THIRD TIME EXTRA PROJECT-----------
+
+    public void MJTTEPxSemiTruck()
+    {
+        SceneManager.LoadScene("TTEP-SEMITRUCK");
     }
 
 
