@@ -57,10 +57,6 @@ public class UIManagerKindyCamp : MonoBehaviour {
         SceneManager.LoadScene("FTEP-POLICECAR");
     }
 
-    public void MJFTEPxTRACTOR()
-    {
-        SceneManager.LoadScene("FTEP-TRACTOR");
-    }
 
     public void MJFTEPxWINDMILL()
     {
@@ -72,21 +68,22 @@ public class UIManagerKindyCamp : MonoBehaviour {
         SceneManager.LoadScene("FTEP-BRACHIOSAURUS");
     }
 
-    public void MJFTEPxPTERO()
-    { 
-        SceneManager.LoadScene("FTEP-PTERODACTYL");
-    }
 
     public void MJFTEPxTOWTRUCK()
     {
         SceneManager.LoadScene("FTEP-TOWTRUCK");
     }
 
-    public void MJFTEPxTOWTRUCKMECH()
+
+    public void MJFTEPxContainerShipMECH()
     {
-        SceneManager.LoadScene("FTEP-TOWTRUCKMECH");
+        SceneManager.LoadScene("FTEP-CONTAINERSHIPMECH");
     }
 
+    public void MJFTEPxDRAGRACER()
+    {
+        SceneManager.LoadScene("FTEP-DRAGRACER");
+    }
 
 
 
@@ -145,16 +142,25 @@ public class UIManagerKindyCamp : MonoBehaviour {
         SceneManager.LoadScene("STEP-BIRD");
     }
 
-    public void MJSTEPxDRAGRACER()
-    {
-        SceneManager.LoadScene("STEP-DRAGRACER");
+    public void MJSTEPxPTERO()
+    { 
+        SceneManager.LoadScene("STEP-PTERODACTYL");
     }
 
-    public void MJSTEPxFireTruck()
+    public void MJSTEPxTRACTOR()
+    {
+        SceneManager.LoadScene("STEP-TRACTOR");
+    }
+
+    public void MJSTEPxFireTruckMECH()
     {
         SceneManager.LoadScene("STEP-FIRETRUCK");
     }
 
+    public void MJSTEPxTOWTRUCKMECH()
+    {
+        SceneManager.LoadScene("STEP-TOWTRUCKMECH");
+    }
 
 
 
